@@ -1,7 +1,7 @@
-public class Main {
+public class Main {  //wyniki: https://docs.google.com/spreadsheets/d/1QiDLjMX_lORQf7Wva6eKuCVYIUOWK37q4Ch1MktIQm0
     static int liczbaRequestow = 10000;
     static int rozmiarPamieciWitrualnej = 200;
-    static int rozmiarPamieciFizycznej = 30;
+    static int rozmiarPamieciFizycznej = 20;
     static boolean algorytmyPodpisane = true;
     public static void main(String[] args) {
         Requests requesty = new Requests();
